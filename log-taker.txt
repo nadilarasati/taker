@@ -2717,3 +2717,13 @@
 4/2/2025 | 4:14:34 PM | WARN | Retrying... (0 attempts left) 
 4/2/2025 | 4:14:37 PM | ERROR | Failed to get nonce after retries: Request failed with status code 521
 4/2/2025 | 4:14:37 PM | ERROR | Failed to retrieve nonce for wallet: 0x159617aeAB93CB9EBfFCFD3FbDAaB5115414E5db 
+4/2/2025 | 8:13:01 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+4/2/2025 | 8:13:02 PM | INFO | Start process for wallet 0x159617aeAB93CB9EBfFCFD3FbDAaB5115414E5db 
+4/2/2025 | 8:13:02 PM | ERROR | Failed to get nonce: Request failed with status code 521
+4/2/2025 | 8:13:02 PM | WARN | Retrying... (2 attempts left) 
+4/2/2025 | 8:13:06 PM | ERROR | Failed to get nonce: Request failed with status code 521
+4/2/2025 | 8:13:06 PM | WARN | Retrying... (1 attempts left) 
+4/2/2025 | 8:13:09 PM | ERROR | Failed to get nonce: Request failed with status code 521
+4/2/2025 | 8:13:09 PM | WARN | Retrying... (0 attempts left) 
+4/2/2025 | 8:13:12 PM | ERROR | Failed to get nonce after retries: Request failed with status code 521
+4/2/2025 | 8:13:12 PM | ERROR | Failed to retrieve nonce for wallet: 0x159617aeAB93CB9EBfFCFD3FbDAaB5115414E5db 

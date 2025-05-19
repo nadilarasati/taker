@@ -5350,3 +5350,16 @@
 5/18/2025 | 8:12:52 PM | INFO | Trying to check user miner status... 
 5/18/2025 | 8:12:53 PM | INFO | Last mining time: 5/18/2025, 1:03:36 AM
 5/18/2025 | 8:12:53 PM | WARN | Mining already started, next mining time is: 5/19/2025, 1:03:36 AM
+5/19/2025 | 1:02:19 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/19/2025 | 1:02:19 AM | INFO | Start process for wallet 0x159617aeAB93CB9EBfFCFD3FbDAaB5115414E5db 
+5/19/2025 | 1:02:20 AM | INFO | Trying To Login for wallet: 0x159617aeAB93CB9EBfFCFD3FbDAaB5115414E5db 
+5/19/2025 | 1:02:20 AM | INFO | Login successful... 
+5/19/2025 | 1:02:20 AM | INFO | Trying to check user info... 
+5/19/2025 | 1:02:21 AM | INFO | User ID: 102545457 | Twitter: @nadilarasati | Total Points: 1968000 
+5/19/2025 | 1:02:21 AM | INFO | Trying to check user miner status... 
+5/19/2025 | 1:02:55 AM | INFO | Last mining time: 5/16/2025, 8:13:33 PM
+5/19/2025 | 1:02:55 AM | INFO | Trying to start Mining for wallet: 0x159617aeAB93CB9EBfFCFD3FbDAaB5115414E5db 
+5/19/2025 | 1:03:28 AM | INFO | Mine response: {"code":500,"msg":"The contract is not activated. Please activate the contract first","data":null}
+5/19/2025 | 1:03:28 AM | INFO | Trying to activate mining on-chain for wallet: 0x159617aeAB93CB9EBfFCFD3FbDAaB5115414E5db 
+5/19/2025 | 1:05:43 AM | ERROR | Activate Mining Error: {"errno":-110,"code":"ETIMEDOUT","syscall":"connect","address":"101.47.19.33","port":443}
+5/19/2025 | 1:05:43 AM | ERROR | Wallet already start mine today or wallet dont have taker balance 

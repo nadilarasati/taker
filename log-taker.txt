@@ -5363,3 +5363,15 @@
 5/19/2025 | 1:03:28 AM | INFO | Trying to activate mining on-chain for wallet: 0x159617aeAB93CB9EBfFCFD3FbDAaB5115414E5db 
 5/19/2025 | 1:05:43 AM | ERROR | Activate Mining Error: {"errno":-110,"code":"ETIMEDOUT","syscall":"connect","address":"101.47.19.33","port":443}
 5/19/2025 | 1:05:43 AM | ERROR | Wallet already start mine today or wallet dont have taker balance 
+5/19/2025 | 4:20:35 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/19/2025 | 4:20:35 AM | INFO | Start process for wallet 0x159617aeAB93CB9EBfFCFD3FbDAaB5115414E5db 
+5/19/2025 | 4:20:36 AM | INFO | Trying To Login for wallet: 0x159617aeAB93CB9EBfFCFD3FbDAaB5115414E5db 
+5/19/2025 | 4:20:37 AM | INFO | Login successful... 
+5/19/2025 | 4:20:37 AM | INFO | Trying to check user info... 
+5/19/2025 | 4:20:38 AM | INFO | User ID: 102545457 | Twitter: @nadilarasati | Total Points: 1968000 
+5/19/2025 | 4:20:38 AM | INFO | Trying to check user miner status... 
+5/19/2025 | 4:20:39 AM | INFO | Last mining time: 5/18/2025, 1:03:36 AM
+5/19/2025 | 4:20:39 AM | INFO | Trying to start Mining for wallet: 0x159617aeAB93CB9EBfFCFD3FbDAaB5115414E5db 
+5/19/2025 | 4:20:40 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+5/19/2025 | 4:20:40 AM | INFO | Trying to activate mining on-chain for wallet: 0x159617aeAB93CB9EBfFCFD3FbDAaB5115414E5db 
+5/19/2025 | 4:20:52 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0xd3932e376b1df1205d12d629089734759ffed22a7694979e98bb5ab96e89888a 

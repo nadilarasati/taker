@@ -5542,3 +5542,12 @@
 5/21/2025 | 8:13:35 PM | INFO | Trying to activate mining on-chain for wallet: 0x159617aeAB93CB9EBfFCFD3FbDAaB5115414E5db 
 5/21/2025 | 8:13:39 PM | ERROR | Activate Mining Error: {"code":"INSUFFICIENT_FUNDS","transaction":"0x02f86b8204655a80831e848082ed9594b3efe5105b835e5dd9d206445dbd66df24b912ab808402fb0c5ec001a00aae7c0d2718bf484c01f8e8a12a206802f77a55c75a1dceaf9b313531bf386ea00636eb80602275bc71dfa9bab5581a8ac2e1e6b823960c5461cda778b4c64412","info":{"error":{"code":-32603,"message":"insufficient funds for gas * price + value"}},"shortMessage":"insufficient funds for intrinsic transaction cost"}
 5/21/2025 | 8:13:39 PM | ERROR | Wallet already start mine today or wallet dont have taker balance 
+5/22/2025 | 4:17:08 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/22/2025 | 4:17:09 AM | INFO | Start process for wallet 0x159617aeAB93CB9EBfFCFD3FbDAaB5115414E5db 
+5/22/2025 | 4:17:10 AM | INFO | Trying To Login for wallet: 0x159617aeAB93CB9EBfFCFD3FbDAaB5115414E5db 
+5/22/2025 | 4:17:10 AM | INFO | Login successful... 
+5/22/2025 | 4:17:10 AM | INFO | Trying to check user info... 
+5/22/2025 | 4:17:11 AM | INFO | User ID: 102545457 | Twitter: @nadilarasati | Total Points: 2040000 
+5/22/2025 | 4:17:11 AM | INFO | Trying to check user miner status... 
+5/22/2025 | 4:17:12 AM | INFO | Last mining time: 5/22/2025, 12:59:42 AM
+5/22/2025 | 4:17:12 AM | WARN | Mining already started, next mining time is: 5/23/2025, 12:59:42 AM

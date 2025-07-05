@@ -8074,3 +8074,15 @@
 7/5/2025 | 12:21:42 PM | INFO | Trying to activate mining on-chain for wallet: 0x159617aeAB93CB9EBfFCFD3FbDAaB5115414E5db 
 7/5/2025 | 12:21:47 PM | ERROR | Activate Mining Error: {"code":"UNKNOWN_ERROR","error":{"code":-32603,"message":"submit transaction to pool failed: Ok(ImmediatelyDropped)"},"payload":{"method":"eth_sendRawTransaction","params":["0x02f86c820465818280831e848082ed9594b3efe5105b835e5dd9d206445dbd66df24b912ab808402fb0c5ec080a086f2db7297402b478565506eae33487109fdd3171041e978772f17f13a61912ba01b3040cb1367e059ef2ed839375824dd287d94e9df684d823d3d18edd8d15849"],"id":10,"jsonrpc":"2.0"},"shortMessage":"could not coalesce error"}
 7/5/2025 | 12:21:47 PM | ERROR | Wallet already start mine today or wallet dont have taker balance 
+7/5/2025 | 4:13:55 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+7/5/2025 | 4:13:55 PM | INFO | Start process for wallet 0x159617aeAB93CB9EBfFCFD3FbDAaB5115414E5db 
+7/5/2025 | 4:13:56 PM | INFO | Trying To Login for wallet: 0x159617aeAB93CB9EBfFCFD3FbDAaB5115414E5db 
+7/5/2025 | 4:13:57 PM | INFO | Login successful... 
+7/5/2025 | 4:13:57 PM | INFO | Trying to check user info... 
+7/5/2025 | 4:13:58 PM | INFO | User ID: 102545457 | Twitter: @nadilarasati | Total Points: 3000000 
+7/5/2025 | 4:13:58 PM | INFO | Trying to check user miner status... 
+7/5/2025 | 4:13:58 PM | INFO | Last mining time: 7/4/2025, 8:17:18 AM
+7/5/2025 | 4:13:58 PM | INFO | Trying to start Mining for wallet: 0x159617aeAB93CB9EBfFCFD3FbDAaB5115414E5db 
+7/5/2025 | 4:13:59 PM | INFO | Mine response: {"code":500,"msg":"startMining Fail, startMining has not reached refresh time","data":null}
+7/5/2025 | 4:13:59 PM | INFO | Trying to activate mining on-chain for wallet: 0x159617aeAB93CB9EBfFCFD3FbDAaB5115414E5db 
+7/5/2025 | 4:14:10 PM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0xd4b5d199c81ffb45b4a6b387f1a5bb11c996f8d2474778454922c0bbfac21d99 

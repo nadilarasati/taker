@@ -8777,3 +8777,12 @@
 7/17/2025 | 8:14:19 PM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
 7/17/2025 | 8:14:19 PM | INFO | Trying to activate mining on-chain for wallet: 0x159617aeAB93CB9EBfFCFD3FbDAaB5115414E5db 
 7/17/2025 | 8:14:31 PM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x51228185f8b6bf282a0295b70f713359e85e2189c944d65de24396c1540f0d67 
+7/18/2025 | 1:04:20 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+7/18/2025 | 1:04:20 AM | INFO | Start process for wallet 0x159617aeAB93CB9EBfFCFD3FbDAaB5115414E5db 
+7/18/2025 | 1:04:21 AM | INFO | Trying To Login for wallet: 0x159617aeAB93CB9EBfFCFD3FbDAaB5115414E5db 
+7/18/2025 | 1:04:21 AM | INFO | Login successful... 
+7/18/2025 | 1:04:21 AM | INFO | Trying to check user info... 
+7/18/2025 | 1:04:22 AM | INFO | User ID: 102545457 | Twitter: @nadilarasati | Total Points: 3264000 
+7/18/2025 | 1:04:22 AM | INFO | Trying to check user miner status... 
+7/18/2025 | 1:04:23 AM | INFO | Last mining time: 7/17/2025, 8:14:27 PM
+7/18/2025 | 1:04:23 AM | WARN | Mining already started, next mining time is: 7/18/2025, 8:14:27 PM
